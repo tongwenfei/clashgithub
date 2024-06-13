@@ -3,7 +3,7 @@ name: run main.py
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 8 * * *' # At 00:00 on Monday
+    - cron: '30 8 * * *' # At 08:30 every day
 
 jobs:
   build:
@@ -33,7 +33,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "updated rss" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
