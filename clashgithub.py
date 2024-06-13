@@ -10,7 +10,7 @@ if req.status_code == 200:
     pre_tags = soup.find_all('pre')
     pre_tags = [tag.text.strip() for tag in pre_tags]
     pre_tags = [tag.split('\r\n') for tag in pre_tags]
-    with open('uploads/clashgithub.txt', 'w', encoding='utf-8') as f:
+    with open('upload/clashgithub.txt', 'w', encoding='utf-8') as f:
         for tag in pre_tags[0]:
             f.write(tag)
             f.write('\n')
