@@ -1,90 +1,83 @@
 ss://[email protected]:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
 ss://[email protected]:443#0%7C--1
-ss://[email protected]:8080#0%7C--2
+ss://[email protected]:443#0%7C--2
+ss://[email protected]:8009#0%7C--3
+ss://[email protected]:443#0%7C--4
+ss://[email protected]:443#0%7C--5
+ss://[email protected]:443#0%7C--6
 ss://[email protected]:443#0%7C--7
-ss://[email protected]:443#0%7C--8
-ss://[email protected]:8080#0%7C--9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#0%7C--8
+ss://[email protected]:24934#0%2C13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+ss://[email protected]:443#0%7C--10
 ss://[email protected]:443#0%7C--11
+ss://[email protected]:9060#0%7C--12
 ss://[email protected]:443#0%7C--13
 ss://[email protected]:443#0%7C--14
 ss://[email protected]:443#0%7C--15
-ss://[email protected]:443#0%7C--16
+ss://[email protected]:8080#0%7C--16
 ss://[email protected]:443#0%7C--17
 ss://[email protected]:8080#0%7C--18
 ss://[email protected]:443#0%7C--19
 ss://[email protected]:443#0%7C--20
 ss://[email protected]:443#0%7C--21
-ss://[email protected]:9056#0%7C--22
-ss://[email protected]:443#0%7C--23
+ss://[email protected]:443#0%7C--22
+ss://[email protected]:9031#0%7C--23
+ss://[email protected]:443#0%7C--24
+ss://[email protected]:443#0%7C--25
+ss://[email protected]:8080#0%7C--26
 ss://[email protected]:443#0%7C--27
-ss://[email protected]:443#0%7C--28
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQwIiwgImFkZCI6ICIxNTEuMTAxLjE5NC4xMzMiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNTQ1NDg1ZGEtOWZmNC00OGM1LWFlOTQtNDVlNmU0ZWU3ZDI2IiwgInNuaSI6ICJtaW8uc3BsYXNodGhhdC5jb20iLCAiaG9zdCI6ICI2NjA2LmNvbSIsICJwYXRoIjogIi9yYWNldnBuIn0=
-trojan://[email protected]:443?allowInsecure=1&sni=mint-pangolin.treefrog761.one#0,15|IN_speednode_0028
+ss://[email protected]:9014#0%7C--28
+ss://[email protected]:989#0%7C--29
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQ3IiwgImFkZCI6ICIzOC4xNzQuMTkwLjgwIiwgInBvcnQiOiAzODAwNywgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJwYXRoIjogIi9wYXRoLzEwMjIwNjI4MjAwNSJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTUwIiwgImFkZCI6ICIxNTEuMTAxLjE5NC4xMzMiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNTQ1NDg1ZGEtOWZmNC00OGM1LWFlOTQtNDVlNmU0ZWU3ZDI2IiwgInNuaSI6ICJtaW8uc3BsYXNodGhhdC5jb20iLCAiaG9zdCI6ICI2NjA2LmNvbSIsICJwYXRoIjogIi9yYWNldnBuIn0=
+trojan://[email protected]:30337?allowInsecure=1&sni=ddns.200566.xyz#0,15|TW_speednode_0063
 trojan://[email protected]:2524?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://[email protected]:36442?allowInsecure=1#13,14|香港2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjM0LjEwMi4yMjkiLCAicG9ydCI6IDUyOTA4LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMTk4LjcxLjIxNCIsICJwb3J0IjogMzQ0OTMsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiA1MTcwNCwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
-ss://[email protected]:8388#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
+trojan://[email protected]:12345?allowInsecure=0&sni=bestbgp.doubledou.icu#13,14|香港6|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiA0NjYwMiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
-trojan://[email protected]:13005?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#13,14|香港8|@ripaojiedian
-trojan://9ad5228f-3e01-4353-b717-935272e5f2d6@naiu-other.05vr9nyqg5.download:13035?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#13,14|台湾|@ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR85Y+w5rm+fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInR3Mi5zZGtsa2Qub3JnIiwgInBvcnQiOiAiMTQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImh0dHAiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiZmE5ODcxNGMtMWQyYi0zYjYwLTgxZTAtZjcxNTExMTBlODAxIiwgInNuaSI6ICJ0dzIuc2RrbGtkLm9yZyJ9
 ss://[email protected]:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJqcHAxLnBmZHNkZGxhLmNvbSIsICJwb3J0IjogMzg5NTMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0ZjM1Nzk5My01M2UzLTMzZDgtOGVkNy0wYzU4Zjg3ZjdmYTMifQ==
-ss://[email protected]:8388#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://[email protected]:50001?allowInsecure=1&sni=jpcn2.doubledou.icu#13,14,15|CN_speednode_0016
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJqcHAxLnBmZHNkZGxhLmNvbSIsICJwb3J0IjogMzg5NTMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJmYTk4NzE0Yy0xZDJiLTNiNjAtODFlMC1mNzE1MTExMGU4MDEifQ==
+trojan://[email protected]:50001?allowInsecure=0&sni=jpcn2.doubledou.icu#13,14|日本4|@ripaojiedian
+ss://[email protected]:2884#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR85paw5Yqg5Z2hfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInd3dy5hZXR2LmNvbSIsICJwb3J0IjogIjgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYmViN2QwOTgtNDhiYS00YmU4LWE0N2EtNzU4YmYzYzQ3MGI4IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJhbWQuYWwiLCAicGF0aCI6ICIvP2VkPTIwNDgifQ==
-trojan://[email protected]:13021?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#13,14|美国|@ripaojiedian
-trojan://[email protected]:50062?allowInsecure=0&sni=sjc.doubledou.icu#13,14|美国2|@ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HuvCfh7gg576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE1Ni4yNTEuMTg5LjIyNSIsICJwb3J0IjogMzA4OTUsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1ZjAxMWI1Ny1hNDU2LTQ1YWUtYWEyYy1mOTc2NzgwZTU2YzMifQ==
 ss://[email protected]:443#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://[email protected]:443#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://[email protected]:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-trojan://[email protected]:443?allowInsecure=0&sni=vn.mjt000.com#13,14|越南|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR85rOV5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInByaW1lci5pYmlsaWJpLmxpIiwgInBvcnQiOiAiNDQzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiZTU4NTIzOTMtY2E1Mi00YzkwLWEyMzctZDYzY2JiYjU3ZjIxIiwgInNuaSI6ICJhbWVibG8uanAiLCAiaG9zdCI6ICJsb2tpLm9yYWNsZSIsICJwYXRoIjogIi9mYXJjcnk/ZWQ9MjU2MCJ9
+trojan://[email protected]:443?allowInsecure=0&sni=vn.mjt000.com#13,14|越南|@ripaojiedian
 trojan://[email protected]:50015?allowInsecure=0&sni=my.doubledou.icu#13,14|马来西亚|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjM0LjEwMi4yMjkiLCAicG9ydCI6ICI1MjkwOCIsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgInNuaSI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMTk4LjcxLjIxNCIsICJwb3J0IjogIjM0NDkzIiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAic25pIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiAiNTE3MDQiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=
-ss://[email protected]:8388#14%7C%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiAiNDY2MDIiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=
 ss://[email protected]:443#14%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85pel5pysMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJqcHAxLnBmZHNkZGxhLmNvbSIsICJwb3J0IjogIjM4OTUzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjRmMzU3OTkzLTUzZTMtMzNkOC04ZWQ3LTBjNThmODdmN2ZhMyIsICJzbmkiOiAiIn0=
-ss://[email protected]:8388#14%7C%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85pel5pysMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJqcHAxLnBmZHNkZGxhLmNvbSIsICJwb3J0IjogIjM4OTUzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImZhOTg3MTRjLTFkMmItM2I2MC04MWUwLWY3MTUxMTEwZTgwMSIsICJzbmkiOiAiIn0=
+ss://[email protected]:2884#14%7C%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
+ss://[email protected]:24934#14%7C%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR8576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE1Ni4yNTEuMTg5LjIyNSIsICJwb3J0IjogIjMwODk1IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjVmMDExYjU3LWE0NTYtNDVhZS1hYTJjLWY5NzY3ODBlNTZjMyIsICJzbmkiOiAiIn0=
 ss://[email protected]:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://[email protected]:443#14%7C%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://[email protected]:443#14%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-trojan://[email protected]:40007?allowInsecure=1&sni=ccc3.doubledou.icu#15|CN_speednode_0008
-trojan://[email protected]:50014?allowInsecure=1&sni=ia.aaaa.gay#15|CN_speednode_0010
-trojan://[email protected]:50013?allowInsecure=1&sni=v2iijjp1.doubledou.icu#15|CN_speednode_0011
-trojan://[email protected]:50079?allowInsecure=1&sni=tai.doubledou.icu#15|CN_speednode_0013
-trojan://[email protected]:50015?allowInsecure=1&sni=ia2.aaaa.gay#15|CN_speednode_0014
-trojan://[email protected]:50000?allowInsecure=1&sni=gg.doubledou.icu#15|CN_speednode_0015
-trojan://[email protected]:40001?allowInsecure=1&sni=jpz.doubledou.icu#15|CN_speednode_0018
-trojan://[email protected]:50021?allowInsecure=1&sni=los4.aaaa.gay#15|CN_speednode_0019
-trojan://[email protected]:50064?allowInsecure=1&sni=sydney2.aaaa.gay#15|CN_speednode_0020
-vless://[email protected]:443?allowInsecure=0&sni=blog.codegethub.org&type=ws&host=blog.codegethub.org&path=/ws@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channelsecurity=tls#15|DE_speednode_0023
-vless://[email protected]:22733?allowInsecure=0#15|FI_speednode_0025
-vless://[email protected]:443?allowInsecure=0&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480fp=randomized&security=tls#15|JP_speednode_0030
-vless://37ec7228-f4ea-4820-84ea-d4f101575851@pscresearch.faculty.ucdavis.edu:443?allowInsecure=0&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=hvwrfuerhetitugj44yhrthj.com&path=/ws/?ed=2048security=tls#15|JP_speednode_0031
-vless://[email protected]:443?allowInsecure=1&sni=zoom.us&alpn=h3,h2,http/1.1&fp=chrome&security=tls#15|SG_speednode_0038
-vless://[email protected]:8880?allowInsecure=0&sni=config-proxy-vl.telegram-config-proxy.workers.dev&type=ws&host=config-proxy-vl.telegram-config-proxy.workers.dev&path=/?ed=2560#15|US_speednode_0039
-vless://[email protected]:8443?allowInsecure=0&sni=1-13cx20.hc1212.top&type=ws&host=1-13cx20.hc1212.top&path=/?ed=2560fp=random&security=tls#15|US_speednode_0047
-vless://[email protected]:2096?allowInsecure=0&sni=1-13cx20.hc1212.top&type=ws&host=1-13cx20.hc1212.top&path=/?ed=2560fp=random&security=tls#15|US_speednode_0048
-vless://[email protected]:8443?allowInsecure=0&sni=1-13cx20.hc1212.top&type=ws&host=1-13cx20.hc1212.top&path=/?ed=2560fp=random&security=tls#15|US_speednode_0049
-vless://[email protected]:2096?allowInsecure=0&sni=1-13cx20.hc1212.top&type=ws&host=1-13cx20.hc1212.top&path=/?ed=2560fp=random&security=tls#15|US_speednode_0050
-vless://[email protected]:443?allowInsecure=0&sni=yla.ylks.us.kg&type=ws&host=yla.ylks.us.kg&path=/?ed=2560security=tls#15|US_speednode_0051
-trojan://[email protected]:443?allowInsecure=1&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=/#15|US_speednode_0053
-vless://[email protected]:8443?allowInsecure=0&sni=FREEDOM31.Pages.DEV&alpn=http/1.1&type=ws&host=FREEDOM31.Pages.DEV&path=/security=tls#15|US_speednode_0054
-vless://[email protected]:2083?allowInsecure=0&sni=FREEDOM31.Pages.DEV&alpn=http/1.1&type=ws&host=FREEDOM31.Pages.DEV&path=/security=tls#15|US_speednode_0055
-vless://[email protected]:2053?allowInsecure=0&sni=FREEDOM31.Pages.DEV&alpn=http/1.1&type=ws&host=FREEDOM31.Pages.DEV&path=/security=tls#15|US_speednode_0056
-vless://[email protected]:8443?allowInsecure=0&sni=FREEDOM31.Pages.DEV&alpn=http/1.1&type=ws&host=FREEDOM31.Pages.DEV&path=/security=tls#15|US_speednode_0057
-vless://[email protected]:80?allowInsecure=0&sni=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#15|US_speednode_0058
-vless://[email protected]:443?allowInsecure=0&sni=147135010103.sec19org.com&security=tls#15|US_speednode_0059
-vless://[email protected]:443?allowInsecure=1&sni=147135004002.sec20org.com&alpn=h2,http/1.1&security=tls#15|US_speednode_0060
-vless://[email protected]:2053?allowInsecure=0&sni=FREEDOM31.Pages.DEV&alpn=http/1.1&type=ws&host=FREEDOM31.Pages.DEV&path=/security=tls#15|US_speednode_0061
-vless://[email protected]:80?allowInsecure=1&sni=cc.ailicf.us.kg&type=ws&host=cc.ailicf.us.kg&path=/b5cdabf0-e04#15|US_speednode_0062
-vless://[email protected]:80?allowInsecure=1&sni=cc.ailicf.us.kg&type=ws&host=cc.ailicf.us.kg&path=/b5cdabf0-e04#15|US_speednode_0063
-vless://[email protected]:443?allowInsecure=0&sni=yfjcjp2.yfjc.sbs&type=ws&host=yfjcjp2.yfjc.sbs&path=/yfjc/jp1fp=chrome&security=tls#15|US_speednode_0064
+vless://[email protected]:443?allowInsecure=0&sni=cpanel3.sassanidempire.com&type=ws&host=cpanel3.sassanidempire.com&path=/wssecurity=tls#15|DE_speednode_0035
+vless://37ec7228-f4ea-4820-84ea-d4f101575851@pscresearch.faculty.ucdavis.edu:443?allowInsecure=0&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=hvwrfuerhetitugj44yhrthj.com&path=/ws/?ed=2048security=tls#15|JP_speednode_0042
+vless://[email protected]:443?allowInsecure=0&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480fp=randomized&security=tls#15|JP_speednode_0043
+vless://[email protected]:80?allowInsecure=0&sni=scp-only.ws.com&type=ws&host=scp-only.ws.com&path=/wsfp=chrome#15|JP_speednode_0044
+trojan://[email protected]:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|KZ_speednode_0046
+trojan://[email protected]:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|RU_speednode_0052
+vless://[email protected]:443?allowInsecure=1&sni=zoom.us&alpn=h3,h2,http/1.1&fp=chrome&security=tls#15|SG_speednode_0054
+vless://[email protected]:443?allowInsecure=0&sni=blog.codegethub.org&type=ws&host=blog.codegethub.org&path=/ws@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channelsecurity=tls#15|SG_speednode_0060
+vless://[email protected]:443?allowInsecure=0&sni=147135010103.sec19org.com&security=tls#15|SG_speednode_0061
+vless://[email protected]:8880?allowInsecure=0&sni=config-proxy-vl.telegram-config-proxy.workers.dev&type=ws&host=config-proxy-vl.telegram-config-proxy.workers.dev&path=/?ed=2560#15|US_speednode_0064
+vless://[email protected]:443?allowInsecure=0&sni=yla.ylks.us.kg&type=ws&host=yla.ylks.us.kg&path=/?ed=2560security=tls#15|US_speednode_0070
+vless://[email protected]:80?allowInsecure=0&sni=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#15|US_speednode_0071
+vless://[email protected]:443?allowInsecure=0&sni=yfjcjp2.yfjc.sbs&type=ws&host=yfjcjp2.yfjc.sbs&path=/yfjc/jp1fp=chrome&security=tls#15|US_speednode_0073
+vless://[email protected]:8080?allowInsecure=0&sni=workerr.hashdiler.workers.dev&type=ws&host=workerr.hashdiler.workers.dev&path=/?ed=2048#15|US_speednode_0075
+trojan://[email protected]:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|US_speednode_0080
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://[email protected]:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16|d*********g.com_6
 trojan://[email protected]:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3
