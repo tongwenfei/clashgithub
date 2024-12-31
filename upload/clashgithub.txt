@@ -1,48 +1,30 @@
 ss://[email protected]:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://[email protected]:443#0%7C--1
-ss://[email protected]:9025#0%7C--2
-ss://[email protected]:443#0%7C--3
-ss://[email protected]:443#0%7C--4
-ss://[email protected]:443#0%7C--5
+ss://[email protected]:8091#0%7C--3
+ss://[email protected]:9018#0%7C--5
 ss://[email protected]:443#0%7C--6
-ss://[email protected]:443#0%7C--7
-ss://[email protected]:443#0%2C13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://[email protected]:443#0%7C--9
-ss://[email protected]:443#0%7C--10
-ss://[email protected]:9011#0%7C--12
+ss://[email protected]:6379#0%7C--10
+ss://[email protected]:8080#0%7C--11
+ss://[email protected]:8000#0%7C--12
 ss://[email protected]:443#0%7C--13
-ss://[email protected]:443#0%7C--14
-ss://[email protected]:8881#0%7C--15
-ss://[email protected]:6679#0%7C--16
-ss://[email protected]:7307#0%7C--17
-ss://[email protected]:443#0%7C--18
-ss://[email protected]:7306#0%7C--19
-ss://[email protected]:5003#0%7C--20
-ss://[email protected]:5004#0%7C--21
-ss://[email protected]:443#0%7C--22
-ss://[email protected]:443#0%7C--23
+ss://[email protected]:443#0%7C--16
+ss://[email protected]:8388#0%7C--22
+ss://[email protected]:9037#0%7C--23
 ss://[email protected]:8080#0%7C--24
-ss://[email protected]:8080#0%7C--25
-ss://[email protected]:443#0%7C--26
-ss://[email protected]:9042#0%7C--27
-ss://[email protected]:443#0%7C--28
-ss://[email protected]:443#0%7C--29
-ss://[email protected]:443#0%7C--30
-ss://[email protected]:8080#0%7C--31
-ss://[email protected]:9024#0%7C--32
-ss://[email protected]:443#0%7C--33
-ss://[email protected]:9031#0%7C--34
+ss://[email protected]:9001#0%7C--25
+ss://[email protected]:989#0%7C--26
+ss://[email protected]:9045#0%7C--28
+ss://[email protected]:443#0%7C--31
+ss://[email protected]:443#0%7C--32
+ss://[email protected]:8080#0%7C--33
+ss://[email protected]:443#0%7C--34
 ss://[email protected]:443#0%7C--35
-ss://[email protected]:9101#0%7C--36
+ss://[email protected]:9042#0%7C--36
 ss://[email protected]:443#0%7C--37
 ss://[email protected]:9006#0%7C--38
-ss://[email protected]:9059#0%7C--39
-ss://[email protected]:9045#0%7C--40
-ss://[email protected]:8119#0%7C--41
-ss://[email protected]:9094#0%7C--42
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTYyIiwgImFkZCI6ICI1Ny4xMjkuMjUuMjUiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgInNuaSI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgImhvc3QiOiAiZi5raGlsZWkuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTYzIiwgImFkZCI6ICIxOTQuODcuNjkuMjQ0IiwgInBvcnQiOiA2ODE0LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI4NzY1YjM2NS00ZDEzLTRiMTUtYjVjYi03NGE4YTE4YjIyNjAiLCAicGF0aCI6ICIvIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTcwIiwgImFkZCI6ICIyMy4xNTguNTYuMjI3IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJob3N0IjogIjIzLjE1OC41Ni4yMjciLCAicGF0aCI6ICIvbGlua3Z3cyJ9
+ss://[email protected]:443#0%7C--39
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQ4IiwgImFkZCI6ICIxOTkuMTgwLjEwMS4yOSIsICJwb3J0IjogMzgwMDQsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiaG9zdCI6ICJ3d3cuNzA3Nzg1OTgueHl6IiwgInBhdGgiOiAiL3BhdGgvMTczNDc3MDU3NzQ2NiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTU5IiwgImFkZCI6ICIxNTEuMTAxLjE5NC4xMzMiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNTQ1NDg1ZGEtOWZmNC00OGM1LWFlOTQtNDVlNmU0ZWU3ZDI2IiwgInNuaSI6ICJtaW8uc3BsYXNodGhhdC5jb20iLCAiaG9zdCI6ICI2NjA2LmNvbSIsICJwYXRoIjogIi9yYWNldnBuIn0=
 trojan://[email protected]:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://[email protected]:36442?allowInsecure=1#13,14|香港2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjM0LjEwMi4yMjkiLCAicG9ydCI6IDUyOTA4LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
@@ -50,16 +32,18 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivNHxAcmlwYW9qaWVkaWFuIiwg
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiA1MTcwNCwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
 trojan://[email protected]:12345?allowInsecure=0&sni=bestbgp.doubledou.icu#13,14|香港6|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiA0NjYwMiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR85Y+w5rm+fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInR3Mi5zZGtsa2Qub3JnIiwgInBvcnQiOiAiMTQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImh0dHAiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMGNjYWY2MGEtNjY0ZS0zOGYzLThlYmItYWE3MGQxZGU3ZDIxIiwgInNuaSI6ICJ0dzIuc2RrbGtkLm9yZyJ9
-ss://[email protected]:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0NS4xNTkuNTAuMTQzIiwgInBvcnQiOiAyODk4NCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImM1NmQ2MWQ0LTk5MTQtNDI1Mi04M2JlLTE2NTYyZTI0ZWEwYiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJqcHAxLnBmZHNkZGxhLmNvbSIsICJwb3J0IjogMzg5NTMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwY2NhZjYwYS02NjRlLTM4ZjMtOGViYi1hYTcwZDFkZTdkMjEifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivOHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMDMuMTQ5LjE4My4xNzgiLCAicG9ydCI6IDU0Njc1LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiM2E5MDc5NTYtZjY2OC00ZTZiLWVhMDMtMDk0OWYwYzljMGE1In0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImpwcDEucGZkc2RkbGEuY29tIiwgInBvcnQiOiAzODk1MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjJjNjEwZWFjLTg4MmQtMzk0NC1hN2M0LTY3NGMwMzNmMDA3MyJ9
+trojan://[email protected]:12187?allowInsecure=0&sni=xj.cokecloud.top#13,14,15|JP_speednode_0037
 trojan://[email protected]:50001?allowInsecure=0&sni=jpcn2.doubledou.icu#13,14|日本4|@ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ=@k-r01.loveroise.com:54008#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
-ss://[email protected]:57643#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD3%7C%40ripaojiedian
-ss://[email protected]:34304#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+ss://[email protected]:4231#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+ss://[email protected]:2105#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR85paw5Yqg5Z2hfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInd3dy5hZXR2LmNvbSIsICJwb3J0IjogIjgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYmViN2QwOTgtNDhiYS00YmU4LWE0N2EtNzU4YmYzYzQ3MGI4IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJhbWQuYWwiLCAicGF0aCI6ICIvP2VkPTIwNDgifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ=@s-g04.loveroise.com:54030#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+ss://YWVzLTEyOC1nY206MzkzOGJmYWU5OTc5NzQ4NjAyNTE=@console.02.aliyun.aq.kunlunaqs.com:45938#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR8576O5Zu9MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJzaGNtLnBmZHNkZGxhLmNvbSIsICJwb3J0IjogIjQyMTIyIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIyYzYxMGVhYy04ODJkLTM5NDQtYTdjNC02NzRjMDMzZjAwNzMiLCAic25pIjogImFwaS50ZWJvcmRlci5jb20ifQ==
+ss://[email protected]:443#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://[email protected]:443#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://[email protected]:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 trojan://[email protected]:443?allowInsecure=0&sni=vn.mjt000.com#13,14|越南|@ripaojiedian
@@ -69,28 +53,32 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIx
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMTk4LjcxLjIxNCIsICJwb3J0IjogIjM0NDkzIiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAic25pIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiAiNTE3MDQiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiAiNDY2MDIiLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0=
-ss://[email protected]:443#14%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85pel5pysMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0NS4xNTkuNTAuMTQzIiwgInBvcnQiOiAiMjg5ODQiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYzU2ZDYxZDQtOTkxNC00MjUyLTgzYmUtMTY1NjJlMjRlYTBiIiwgInNuaSI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85pel5pysM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJqcHAxLnBmZHNkZGxhLmNvbSIsICJwb3J0IjogIjM4OTUzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjBjY2FmNjBhLTY2NGUtMzhmMy04ZWJiLWFhNzBkMWRlN2QyMSIsICJzbmkiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86aaZ5rivOHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMDMuMTQ5LjE4My4xNzgiLCAicG9ydCI6ICI1NDY3NSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIzYTkwNzk1Ni1mNjY4LTRlNmItZWEwMy0wOTQ5ZjBjOWMwYTUiLCAic25pIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85pel5pysfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImpwcDEucGZkc2RkbGEuY29tIiwgInBvcnQiOiAiMzg5NTMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMmM2MTBlYWMtODgyZC0zOTQ0LWE3YzQtNjc0YzAzM2YwMDczIiwgInNuaSI6ICIifQ==
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd09UZ3pNMkUyWmkwMFpEUTJMVFF5Tm1VdE9EZG1aUzAzTnprellUVTBPRGxtT0RR@k-r01.loveroise.com:54008#14%7C%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
-ss://[email protected]:57643#14%7C%E9%9F%A9%E5%9B%BD3%7C%40ripaojiedian
-ss://[email protected]:34304#14%7C%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+ss://[email protected]:4231#14%7C%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+ss://[email protected]:2105#14%7C%E9%9F%A9%E5%9B%BD3%7C%40ripaojiedian
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd09UZ3pNMkUyWmkwMFpEUTJMVFF5Tm1VdE9EZG1aUzAzTnprellUVTBPRGxtT0RR@s-g04.loveroise.com:54030#14%7C%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 ss://[email protected]:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://[email protected]:443#14%7C%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://[email protected]:443#14%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-vless://[email protected]:443?allowInsecure=0&sni=contents.riot-cdn.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15|DE_speednode_0007
-vless://[email protected]:443?allowInsecure=0&sni=cloudflare.com&flow=xtls-rprx-vision-udp443&fp=random&security=tls#15|FR_speednode_0009
-vless://[email protected]:443?allowInsecure=0&sni=b.travel-assets.com&fp=chrome&security=tls#15|HK_speednode_0010
-vless://[email protected]:443?allowInsecure=0&sni=www.dayuse.com.hk&fp=chrome&security=tls#15|HK_speednode_0011
-vless://[email protected]:443?allowInsecure=0&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15|IL_speednode_0012
-vless://[email protected]:443?allowInsecure=0&sni=tr-s.xor-vpn.ru&security=tls#15|MD_speednode_0014
-vless://[email protected]:443?allowInsecure=0&sni=vk.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15|RU_speednode_0015
-vless://[email protected]:443?allowInsecure=1&sni=zoom.us&alpn=h3,h2,http/1.1&fp=chrome&security=tls#15|SG_speednode_0017
-vless://[email protected]:443?allowInsecure=0&sni=147135010103.sec19org.com&security=tls#15|SG_speednode_0018
-vless://[email protected]:13509?allowInsecure=0&sni=www.sega.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15|TR_speednode_0019
-vless://86206c88-b8e3-4cb3-8932-3ca6ea1b6033@phx-plus-1ddns.faforex.eu.org:18443?allowInsecure=0&sni=www.tesla.com&fp=ios&security=tls#15|US_speednode_0020
-vless://[email protected]:443?allowInsecure=0&sni=contents.riot-cdn.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15|US_speednode_0021
+vless://[email protected]:443?allowInsecure=0&sni=mmghgy5.azurewebsites.net&type=ws&host=mmghgy5.azurewebsites.net&path=/security=tls#15|CA_speednode_0001
+vless://[email protected]:443?allowInsecure=0&sni=cloudflare.com&flow=xtls-rprx-vision-udp443&fp=random&security=tls#15|FR_speednode_0030
+trojan://[email protected]:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#15|FR_speednode_0031
+vless://[email protected]:443?allowInsecure=0&sni=b.travel-assets.com&fp=chrome&security=tls#15|HK_speednode_0034
+vless://[email protected]:443?allowInsecure=0&sni=www.dayuse.com.hk&fp=chrome&security=tls#15|HK_speednode_0035
+vless://[email protected]:443?allowInsecure=0&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15|IL_speednode_0036
+vless://[email protected]:443?allowInsecure=0&sni=vk.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15|RU_speednode_0038
+vless://[email protected]:443?allowInsecure=0&sni=blog.codegethub.org&type=ws&host=blog.codegethub.org&path=/ws@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channelsecurity=tls#15|SG_speednode_0040
+vless://[email protected]:13509?allowInsecure=0&sni=www.sega.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15|TR_speednode_0041
+vless://[email protected]:443?allowInsecure=0&alpn=h2,http/1.1&security=tls#15|US_speednode_0042
+vless://[email protected]:443?allowInsecure=0&alpn=h2,http/1.1&security=tls#15|US_speednode_0043
+vless://[email protected]:443?allowInsecure=0&sni=147135001178.sec22org.com&alpn=h2,http/1.1&security=tls#15|US_speednode_0044
+vless://[email protected]:443?allowInsecure=1&sni=147135001195.sec22org.com&alpn=h2,http/1.1&security=tls#15|US_speednode_0045
+vless://311faab5-5e89-4f41-b2a4-ca4452508cc6@phx-plus-1ddns.faforex.eu.org:18443?allowInsecure=0&sni=www.tesla.com&fp=safari&security=tls#15|US_speednode_0046
+vless://[email protected]:443?allowInsecure=0&sni=147135004002.sec20org.com&security=tls#15|US_speednode_0047
+vless://86206c88-b8e3-4cb3-8932-3ca6ea1b6033@phx-plus-1ddns.faforex.eu.org:18443?allowInsecure=0&sni=www.tesla.com&fp=ios&security=tls#15|US_speednode_0048
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://[email protected]:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16|d*********g.com_6
 trojan://[email protected]:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3
+ss://YWVzLTEyOC1nY206MzkzOGJmYWU5OTc5NzQ4NjAyNTE@console.02.aliyun.aq.kunlunaqs.com:45938?plugin=obfs-local;obfs-uri=/;obfs=http;obfs-host=215996dd9f1c3db1e54b.microsoft.com#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
